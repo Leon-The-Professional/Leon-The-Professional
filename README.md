@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Leon-The-Professional
+- 👀 I’m interested in becoming a full stack web/app developer.
+- 🌱 I’m currently working on a todo list app using html, css, vanilla javascript, node, express, and mongoDB. The next language I plan on learning after that is PHP.
+- 📫 Reach me by sending a private message here on GitHub.
