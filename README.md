@@ -22,7 +22,7 @@ I'm always on the lookout for new technologies and challenges to keep expanding 
 
 ## 🚀 Get in Touch
 Feel free to connect with me for collaboration, new opportunities, or just to talk tech!
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/leon-hall-83a518167/))
+- [LinkedIn]([https://www.linkedin.com/in/leon-hall-83a518167/])
 - [Email](mailto:leonus.hall@gmail.com)
 
 Stay Groovy!
