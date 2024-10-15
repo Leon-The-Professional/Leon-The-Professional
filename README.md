@@ -5,8 +5,17 @@ Welcome to my GitHub! I'm a 36-year-old web developer with a unique journey from
 ## :speech_balloon: About Me
 I graduated from Utah State University (USU) in 2012 with a BA in Music. After realizing that teaching music wasn't the right fit for me, I took a detour and worked at the USU bakery while I figured out what direction to take next.
 During my time at the bakery, I began teaching myself web development through online courses and bootcamps. The world of coding really grabbed my attention, and I knew I had found something I wanted to pursue full-time.
-After months of self-study, I was fortunate to land an entry-level position at Malouf, where I got my foot in the door of the tech world. Since then, I've been sharpening my skills and taking on new challenges every day.
 
+## 🌟 My Break into Development
+After months of self-study, I was fortunate to land an entry-level position at Malouf, where I joined an amazing group of developers. During my time there, I gained experience working with an old in-house PHP framework as well as with **Laravel**. I contributed to various **API and EDI integrations**, utilized **AWS** for file sharing, and collaborated with different teams across the company to develop and maintain software that supported our company’s goals.
+
+## :nut_and_bolt: My Role at Malouf
+At Malouf, I worked on a wide range of projects, including:
+- **Front-End and Back-End Development**: Refactoring legacy code and adding new features using modern syntax.
+- **Debugging, Security, and Testing**: Ensuring our systems were reliable, secure, and efficient.
+- **Inner Company and Third-Party Requests**: Creating integrations with third-party services via API and EDI.
+- **Collaboration Across Teams**: Working with other developers, sales teams, accounting, and external partners to deliver solutions that enhanced business efficiency.
+  
 ## 🔧 My Current Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, Vue.js
 - **Backend**: PHP, Laravel
@@ -22,7 +31,7 @@ I'm always on the lookout for new technologies and challenges to keep expanding 
 
 ## 🚀 Get in Touch
 Feel free to connect with me for collaboration, new opportunities, or just to talk tech!
-- [LinkedIn]([https://www.linkedin.com/in/leon-hall-83a518167/])
+- [LinkedIn](https://www.linkedin.com/in/leon-hall-83a518167/)
 - [Email](mailto:leonus.hall@gmail.com)
 
 Stay Groovy!
